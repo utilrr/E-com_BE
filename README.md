@@ -9,7 +9,7 @@ Homework 13
 3.
 
 ## Technologies Used
-JavaScript, Sequelize, 
+JavaScript, Sequelize, Node.js, MySQL, Heroku, JawsDB, Express, .dotenv, bcrypt, Insomnia
 ## Challenges Faced
 
 ## Deployed Website link
