@@ -20,7 +20,6 @@ JavaScript, Sequelize, Node.js, MySQL, Heroku, JawsDB, Express, .dotenv, bcrypt,
 
 ## Screenshots w/ Captions
 
-## Accessibility Audit
 
 
 ### Contribution
