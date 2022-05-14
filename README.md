@@ -11,13 +11,17 @@ This is an application for managers at an internet retail company who want a bac
 5. When I test API POST, PUT, and DELETE routes in Insomnia I am able to successfully create, update, and delete data in my database.
 
 ## Technologies Used
-JavaScript, Sequelize, Node.js, MySQL, Heroku, JawsDB, Express, .dotenv, bcrypt, Insomnia
+JavaScript, Sequelize, Node.js, MySQL2, .dotenv, Insomnia
 ## Challenges Faced
+I had many failed attempts to connect to the server. I had no trouble connecting to MySQL (mysql -u root -p) but I had a typo in my .env file where DB_PASSWORD='password' should've been DB_PW='password'. The error message kept telling me I wasn't using a password. I need to work on my powers of observation. Then I noticed errors with my product_routes using Insomnia. I had typed too many ()'s in an arrow statement.
 
-## Deployed Website link
+## Installation
+From the root directory run npm i, then nodemon server.js to connect to the server. Tested the routes using Insomnia.
+
+## Video link
 
 ## My Repo link
-
+https://github.com/utilrr/E-com_BE
 ## Screenshots w/ Captions
 
 
