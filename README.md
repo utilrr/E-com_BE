@@ -12,11 +12,14 @@ This is an application for managers at an internet retail company who want a bac
 
 ## Technologies Used
 JavaScript, Sequelize, Node.js, MySQL2, .dotenv, Insomnia
+
 ## Challenges Faced
-I had many failed attempts to connect to the server. I had no trouble connecting to MySQL (mysql -u root -p) but I had a typo in my .env file where DB_PASSWORD='password' should've been DB_PW='password'. The error message kept telling me I wasn't using a password. I need to work on my powers of observation. Then I noticed errors with my product_routes using Insomnia. I had typed too many ()'s in an arrow statement.
+I had many failed attempts to connect to the server. I had no trouble connecting to MySQL (`mysql -u root -p`) but I had a typo in my `.env` file where `DB_PASSWORD='password'` should've been `DB_PW='password'`. The error message kept telling me I wasn't using a password. I need to work on my powers of observation. 
+
+Then I noticed errors with my `product_routes` using Insomnia. I had typed too many `()`'s in an arrow statement.
 
 ## Installation
-From the root directory run npm i, then nodemon server.js to connect to the server. Tested the routes using Insomnia.
+From the root directory run `npm i`, then `nodemon server.js` to connect to the server. Tested the routes using Insomnia.
 
 ## Video link
 
