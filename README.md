@@ -18,15 +18,16 @@ I had many failed attempts to connect to the server. I had no trouble connecting
 
 Then I noticed errors with my `product_routes` using Insomnia. I had typed too many `()`'s in an arrow statement.
 
+Also, I had a hard time recording the video. I wish I could change some default settings with QuickTime Player. 
+
 ## Installation
 From the root directory run `npm i`, then `nodemon server.js` to connect to the server. Tested the routes using Insomnia.
 
 ## Video link
+https://youtu.be/cjh-568LABM
 
 ## My Repo link
 https://github.com/utilrr/E-com_BE
-## Screenshots w/ Captions
-
 
 
 ### Contribution
